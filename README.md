@@ -1,1 +1,2 @@
-# gh6-kernel-source
+# Walton Primo GH6/GH6+ Kernel Source
+Hello!
